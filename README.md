@@ -1,13 +1,27 @@
 # Helios
 
-Everything is for educational purposes and for personal use. Only use for testing on your own device. 
-This is going to be the final and complete package that binds all my projects into one.
+Everything is for educational purposes and for personal use. You can only use it for testing on your own device. 
+This will be the final and comprehensive package that consolidates all my projects into one.
 Note: Nothing has been uploaded here yet. It will remain like this for a long time, just have hope 
 A productive Linux distro made for cybersecurity
 
 
-Tools 
 
+Control Panel
+Security 
+  Login
+  Firewall
+
+
+
+
+
+
+
+
+
+Tools 
+Lock / Unlock
 Themes Manager 
 Control Panel
 File Manager 
@@ -17,6 +31,29 @@ Helios Antivirus
 Forensic Suite 
 Rat-Botnet
 Ransomware 
+
+
+Flatpack Installer
+
+Virtual Machine Spawn 
+
+
+
+Mythic 
+Sliver
+adaptix C2
+
+
+
+
+
+
+Secure File Downloader 
+qBittorrent
+Filezilla 
+
+
+
 
 
 
@@ -86,6 +123,7 @@ Terminal
 AI Assistant 
 GPTs 
 
+Emulators
 
 
 
