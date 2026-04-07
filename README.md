@@ -7,30 +7,61 @@ A productive Linux distro made for cybersecurity
 
 
 
-Control Panel
+#### Control Panel
+
 Security 
-  Login
-  Firewall
 
+Login
 
+Firewall
 
-
-
-
-
-
-
-Tools 
-Lock / Unlock
 Themes Manager 
-Control Panel
+
 File Manager 
+
 Network Manager 
+
+Bluetooth Manager
+
 Graphics Driver Manager 
+
+Privacy Options
+
+Power Options 
+
+Accessibility Options
+
+Operate System Updater 
+
+
+
+
+
+#### Core Tools
+
+Helios Browser 
+
 Helios Antivirus 
+
+Helios Messenger
+
+Helios Core 
+
 Forensic Suite 
-Rat-Botnet
-Ransomware 
+
+Helios Rat/Botnet
+
+Helios Ransomware 
+
+Terminal
+
+Helios Appstore
+
+
+
+
+
+#### Third Party Tools 
 
 
 Flatpack Installer
@@ -53,11 +84,6 @@ qBittorrent
 Filezilla 
 
 
-
-
-
-
-Helios Browser 
 Tor Browser 
 DuckDuckgo Browser 
 Chromium
@@ -91,7 +117,6 @@ Ghidra
 Minecraft 
 Minecraft Server 
 
-
 VSCodium
 Blocks
 
@@ -115,8 +140,7 @@ Email Services
 
 
 
-CLIs
-Terminal
+
 
 
 
@@ -124,7 +148,6 @@ AI Assistant
 GPTs 
 
 Emulators
-
 
 
 
