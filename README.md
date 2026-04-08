@@ -1,4 +1,4 @@
-# Helios Operating System
+# Example Operating System
 
 Everything is for educational purposes and for personal use. You can only use it for testing on your own device. 
 This will be the final and comprehensive package that consolidates all my projects into one.
