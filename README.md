@@ -1,5 +1,46 @@
 # Example Operating System
 
+Installer 
+https://calamares.io/
+
+
+Arch Linux 
+https://archlinux.org/
+
+KDE Plasma 
+https://kde.org/plasma-desktop/
+
+
+
+File Installation Manager 
+https://wiki.manjaro.org/index.php/Pamac
+
+
+store
+https://flatpak.org/
+https://snapcraft.io/store
+
+
+Drivers Detection
+https://wiki.manjaro.org/index.php/Manjaro_Hardware_Detection
+
+
+Drivers Custom
+https://github.com/dkms-project/dkms
+
+
+Drivers Nivida 
+https://wiki.archlinux.org/title/NVIDIA
+
+Display Server
+https://gitlab.freedesktop.org/xorg/xserver
+
+
+
+
+
+
+Note:
 Everything is for educational purposes and for personal use. You can only use it for testing on your own device. 
 This will be the final and comprehensive package that consolidates all my projects into one.
 Note: Nothing has been uploaded here yet. It will remain like this for a long time, just have hope 
